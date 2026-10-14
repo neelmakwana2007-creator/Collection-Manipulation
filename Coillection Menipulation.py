@@ -49,4 +49,4 @@ while True:
         print("Exit the programe")
         break
     else:
-        print("Invalid choice. please enter the choice beetween the 1 to 3\n")
+        print("Invalid choice please enter the choice beetween the 1 to 3\n")
